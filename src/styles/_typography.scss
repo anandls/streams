@@ -1,0 +1,29 @@
+
+/*=============================================
+=           HTML font                  =
+=============================================*/
+
+html {
+  font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;  
+}
+
+/*=============================================
+=            Body font family                  =
+=============================================*/
+$body-font-family: var(--body-font-family, $raleway) !default;
+
+/*=============================================
+=            Body font sizes                  =
+=============================================*/
+
+$body-font-size: var(--body-font-size, $fs-base) !default;
+$body-font-weight: var(--body-font-weight, $fw-normal) !default;
+
+
+// @mixin typo($font-size, $font-weight, $line-height) {
+//   font-size: $font-size;
+//   font-weight: $font-weight;
+//   line-height: $line-height;
+// }

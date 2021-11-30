@@ -1,0 +1,64 @@
+/*=============================================
+=            Typography             =
+=============================================*/
+
+/* Font families */
+//$opensans: 'Open Sans', sans-serif;
+$raleway: 'Raleway', sans-serif;
+
+/* Font sizes */
+$fs-xs: 0.75rem; // 12px
+$fs-sm: 0.875rem; // 14px
+$fs-base: 1rem; // 16px
+$fs-lg: 1.125rem; // 18px
+$fs-xl: 1.5rem; // 24px
+$fs-xxl: 3.125rem; // 50px
+
+
+/* Heading font sizes */
+$h-1: 1.7rem; // 32px
+$h-2: 1.05rem; // 24px
+$h-3: 1.17rem; // 18px
+$h-4: 1rem; // 16px
+$h-5: 0.83rem; // 13px
+$h-6: 0.67rem; // 10px
+
+/* Font weights */
+$fw-light: 300;
+$fw-normal: 400;
+$fw-medium: 500;
+$fw-semibold: 600;
+$fw-bold: 700;
+$fw-extrabold: 800;
+$fw-black: 900;
+
+/*=============================================
+=            Spacing            =
+=============================================*/
+
+$spacing: (
+  xxxs: 0.25rem,
+  // 4px
+  xxs: 0.5rem,
+  // 8px
+  xs: 0.75rem,
+  // 12px
+  sm: 1rem,
+  // 16px
+  md: 1.5rem,
+  // 24px
+  lg: 2rem,
+  // 32px
+  xl: 3rem,
+  // 48px
+  xxl: 4.5rem,
+  // 72px
+  xxxl: 6rem,
+  // 96px
+) !default;
+
+$shadows: (
+  base: 0 4px 11px rgba(157, 157, 157, 0.21),
+);
+
+
