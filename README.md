@@ -7,4 +7,4 @@ From build:
 
 Dev:
 1. Run "yarn" in app folder to intall dependencies
-2. After dependencies are installed : run yarn run start and go to http://localhost:3000 in your browser
+2. After dependencies are installed : run yarn run start:dev and go to http://localhost:3000 in your browser

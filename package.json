@@ -30,7 +30,8 @@
     "typescript-plugin-css-modules": "^3.4.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start:dev": "react-scripts start",
+    "start:": "node server/server.js",
     "dev": "(set PORT=3006 || export PORT=3006) && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
