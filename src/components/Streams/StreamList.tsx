@@ -7,7 +7,6 @@ import styles from './styles.module.scss';
 import Select from '../common/select';
 // export interface FormProps {
 //   onSubmit: React.FormEventHandler;
-//   addTask: string;
 // }
 
 const StreamList: React.FC = () => {
