@@ -367,7 +367,7 @@ const StreamList: React.FC = () => {
                       <span className={styles.orangebadge}>
                         {differenceTotal.toFixed(2)}
                       </span>{' '}
-                      hour/s time overlapping time
+                      hour/s overlapping
                     </div>
                   </div>
                 )
